@@ -1,0 +1,49 @@
+/* Add or modify this section in your style.css file */
+
+.site__header {
+  top: 0px;
+  padding: 0 10px; /* Shorthand for padding-left and padding-right */
+  /* Remove display: flex from here as it's now on the inner div */
+}
+
+.horizontal__nav {
+  display: flex;
+  align-items: center;
+  margin-right: 20px; /* Add some space between the links and the toggle button */
+}
+
+.horizontal__menu {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  gap: 20px; /* Adds space between the links */
+}
+
+.horizontal__menu .menu_item a {
+  color: var(--text-color-2);
+  font-family: Marcellus;
+  font-size: 1.25rem;
+  text-decoration: none;
+  padding: 5px 0;
+  transition: color 0.3s ease;
+}
+
+.horizontal__menu .menu_item a:hover {
+  color: var(--text-color-3); /* Hover color */
+}
+
+/* Also, ensure your .nav_ac and other related styles are not interfering */
+.nav_ac {
+    padding: 5px 15px;
+    margin: 0;
+    border: unset;
+    background: var(--primary-color);
+    font-size: 1.25rem;
+    font-family: Marcellus;
+    color: var(--text-color-2);
+    line-height: 2;
+    height: 50px;
+    font-weight: bold;
+    z-index: 1000;
+}
