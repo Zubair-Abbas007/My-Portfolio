@@ -1,38 +1,20 @@
-### Description
+My Portfolio Website
+This is a personal portfolio website built with React. The project serves as a showcase of my skills, projects, and professional experience, providing a clean and responsive platform for visitors to learn about my work.
 
-A simple portfolio template for developer/designers built with React. 
+Features
+Multi-Page Navigation: The site includes different sections (e.g., Home, About, Portfolio, Contact) with a smooth routing experience.
 
-### [live preview](https://ubaimutl.github.io/react-portfolio/)
+Dynamic Components: The project is built with reusable React components, such as SocialIcons and ThemeToggle, to maintain a modular and scalable codebase.
 
-[![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://ubaimutl.github.io/react-portfolio/)
+Custom Hooks: Implements custom hooks to manage application-specific logic, such as a custom cursor (useCursor) and route handling (useRouter).
 
-### Features
+Responsive Design: The layout is designed to be responsive and visually appealing on various devices, from desktops to mobile phones.
 
-- Fully Responsive
-- Multi-Page Layout
-- Contact Form With EmailJs
-- React-Bootstrap
-- Edit Content From One Place
+Interactive Elements: Includes interactive features like a theme toggle to switch between light and dark modes.
 
-### Setup
+Technologies Used
+React: The primary JavaScript library for building the user interface.
 
-Get the code
+JavaScript: The programming language used for all application logic.
 
-<pre>git clone https://github.com/ubaimutl/react-portfolio.git</pre>
- 
-Install required dependencies
-
-<pre>yarn install</pre>
-
-
-Start the server
-
-<pre>yarn start</pre>
-
-### More
-
-Modify pages content in  `src/content_option.js`.
-
-### Thanks
-
-If you like this portfolio template don't forget give it a ⭐ 
+HTML & CSS: The foundational languages for structuring and styling the web pages.
