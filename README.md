@@ -2,7 +2,7 @@ __My Portfolio Website__
 
 This is a personal portfolio website built with React. The project serves as a showcase of my skills, projects, and professional experience, providing a clean and responsive platform for visitors to learn about my work.
 
-🚀 Features
+🚀 __Features__
 
 🌐 Multi-Page Navigation: The site includes different sections (e.g., Home, About, Portfolio, Contact) with a smooth routing experience.
 
@@ -14,7 +14,7 @@ This is a personal portfolio website built with React. The project serves as a s
 
 🌓 Interactive Elements: Includes interactive features like a theme toggle to switch between light and dark modes.
 
-🛠️ Technologies Used
+🛠️ __Technologies Used__
 
 React: The primary JavaScript library for building the user interface.
 
