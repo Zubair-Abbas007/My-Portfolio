@@ -1,38 +1,15 @@
-### Description
+🚧 Development Branch
 
-A simple portfolio template for developer/designers built with React. 
+This is the development branch for the **My Portfolio Website**.
 
-### [live preview](https://ubaimutl.github.io/react-portfolio/)
+All new features and fixes are integrated here before being merged into the `main` branch. This branch represents the most up-to-date version of the codebase.
 
-[![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://ubaimutl.github.io/react-portfolio/)
+ Key Features in Development
 
-### Features
+-   [List new features or ongoing work here]
+-   [Example: Implementing a new blog section]
+-   [Example: Refactoring the navigation component]
 
-- Fully Responsive
-- Multi-Page Layout
-- Contact Form With EmailJs
-- React-Bootstrap
-- Edit Content From One Place
+---
 
-### Setup
-
-Get the code
-
-<pre>git clone https://github.com/ubaimutl/react-portfolio.git</pre>
- 
-Install required dependencies
-
-<pre>yarn install</pre>
-
-
-Start the server
-
-<pre>yarn start</pre>
-
-### More
-
-Modify pages content in  `src/content_option.js`.
-
-### Thanks
-
-If you like this portfolio template don't forget give it a ⭐ 
+**Note:** This is a work-in-progress branch and may contain features that are not yet complete or fully tested.
