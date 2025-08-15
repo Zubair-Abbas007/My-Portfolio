@@ -1,38 +1,15 @@
-### Description
+🚀 Feature: Contact Form
 
-A simple portfolio template for developer/designers built with React. 
+This branch is dedicated to developing the new contact form for the **My Portfolio Website**.
 
-### [live preview](https://ubaimutl.github.io/react-portfolio/)
+The goal of this feature is to create a fully functional and validated contact form that allows users to send messages directly from the website.
 
-[![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://ubaimutl.github.io/react-portfolio/)
+ Current Status
 
-### Features
-
-- Fully Responsive
-- Multi-Page Layout
-- Contact Form With EmailJs
-- React-Bootstrap
-- Edit Content From One Place
-
-### Setup
-
-Get the code
-
-<pre>git clone https://github.com/ubaimutl/react-portfolio.git</pre>
- 
-Install required dependencies
-
-<pre>yarn install</pre>
+-   [Describe the current state of the feature]
+-   [Example: Basic form structure is complete]
+-   [Example: Working on client-side validation logic]
+-   [Example: Integrating form submission with a backend service]
 
 
-Start the server
-
-<pre>yarn start</pre>
-
-### More
-
-Modify pages content in  `src/content_option.js`.
-
-### Thanks
-
-If you like this portfolio template don't forget give it a ⭐ 
+**Note:** This branch is under active development. For the stable version of the project, please refer to the `main` or `development` branch.
