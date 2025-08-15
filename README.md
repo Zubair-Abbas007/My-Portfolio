@@ -10,6 +10,5 @@ All new features and fixes are integrated here before being merged into the `mai
 -   [Example: Implementing a new blog section]
 -   [Example: Refactoring the navigation component]
 
----
 
 **Note:** This is a work-in-progress branch and may contain features that are not yet complete or fully tested.
